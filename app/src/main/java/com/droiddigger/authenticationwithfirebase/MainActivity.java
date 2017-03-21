@@ -59,7 +59,7 @@ public class MainActivity extends AppCompatActivity implements GoogleApiClient.O
                     // User is signed out
                     Log.d(TAG, "onAuthStateChanged:signed_out");
                 }
-                // [START_EXCLUDE]
+                // [START_EXCLUDE]7
                 //updateUI(user);
                 // [END_EXCLUDE]
             }
